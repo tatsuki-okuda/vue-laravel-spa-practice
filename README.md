@@ -7,6 +7,21 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## APP URL
+
+https://vue-laravel-spa-app.herokuapp.com/
+
+## About APP
+
+this App is SPA APP, use Laravel8.0 and Vue2.6.12.
+so, very fast move.
+
+if use App, your task can be managed!!
+
+let's enjoy your jobs!!
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
